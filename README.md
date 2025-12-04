@@ -12,6 +12,8 @@ REQUISITOS:
 1. INSTALAÇÃO DAS DEPENDÊNCIAS
 ----------------------------------------
 
+Executar o arquivo criar_banco_mongodb.js para criar a database, instruções estão dentro do arquivo.
+
 No terminal, dentro da pasta do projeto:
 
     npm install
